@@ -1,0 +1,2 @@
+NSBluetoothAlwaysUsageDescription = "智慧勺使用蓝牙寻找餐具并记录用餐。只有你选中设备后才会连接。";
+NSBluetoothPeripheralUsageDescription = "智慧勺使用蓝牙寻找餐具并记录用餐。只有你选中设备后才会连接。";
